@@ -13,7 +13,7 @@ USキーボードに合わせて、JIS配列から記号キーと一部のカナ
 
 ![general](images/sankaku-general.png)
 
-- 一部のカナ(キーボードの右端のキー)を左手のシスト側に割り振り
+- 一部のカナ(キーボードの右端のキー)を左手のシフト側に割り振り
   - <kbd>す</kbd> → <kbd>む</kbd> / <kbd>し</kbd> → <kbd>へ</kbd> / <kbd>は</kbd> → <kbd>ほ</kbd> / <kbd>さ</kbd> → <kbd>け</kbd> / <kbd>そ</kbd> → <kbd>れ</kbd> / <kbd>ひ</kbd> → <kbd>ろ</kbd>
   - 変更は三角形の範囲に限定し、文字形の似ているものに
   - 左手でシフトキーと合わせて押しやすい範囲
