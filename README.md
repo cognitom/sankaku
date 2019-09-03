@@ -11,6 +11,8 @@ USキーボードに合わせて、JIS配列から記号キーと一部のカナ
 
 キーマップの使用は任意ですが、<kbd>INSERT</kbd>にIMEのON/OFFを割り振り、<kbd>変換</kbd>などUS配列に存在しないキーを省いたものです。[Change Key](https://forest.watch.impress.co.jp/library/software/changekey/)などを使って、<kbd>Caps</kbd> と <kbd>Insert</kbd> を入れ替えておくとより便利です。
 
+詳しい設定方法については、[こちらを参照](getting-started.md)してください。
+
 ![general](images/sankaku-general.png)
 
 - 基本的な並びはJISかな配列 (JIS X 6002情報処理系けん盤配列)
