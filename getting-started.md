@@ -13,8 +13,6 @@
 
 - [https://www.google.co.jp/ime/](https://www.google.co.jp/ime/)
 
-![Google IME](images/google-ime.png)
-
 ※Linuxについては未検証ですが、[mozc](https://github.com/google/mozc)でも動くはずです。
 ※Android版については、ローマ字テーブルが固定となっているため、そのままでは導入できません。オープンソース版をカスタマイズしてコンパイルする必要がありそうです。
 
