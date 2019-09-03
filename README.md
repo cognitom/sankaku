@@ -20,15 +20,7 @@ USキーボードに合わせて、JIS配列から記号キーと一部のカナ
 - カギ括弧と長音をUS配列で自然な位置に
 - 濁点・半濁点・小文字のトグル (<kbd>'</kbd>で「は」「ば」「ぱ」をトグル)
 
-## 「はんそく」カナ配列
-
-JIS配列から最低限の変更にとどめた配列です。特徴的なキーにちなんで「はんそく」カナ配列と呼んでいます。詳しくは[こちらのブログ記事](https://medium.com/@cognitom/good-bye-japanese-keyboard-9b0418f32e2c)を参照してください。
-
-- 配列データ - [romantable-hansoku-jis.txt](https://raw.githubusercontent.com/cognitom/kana/master/romantable-hansoku-jis.txt)
-- キーマップ - [keymap-recommended.txt](https://raw.githubusercontent.com/cognitom/kana/master/keymap-recommended.txt)
-
-※この配列から、小型キーボードでの使い勝手を改良したのが「さんかく」カナ配列です。
-
 ## 参考
 
+- [「はんそく」カナ配列](hansoku-jis.md)
 - [新JIS用の配列](https://gist.github.com/ytomino/3610371) by ytomino
