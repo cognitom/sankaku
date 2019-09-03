@@ -1,5 +1,7 @@
 # 推奨セットアップ方法
 
+以下、三角かな配列の導入方法を解説します。環境としてWindowsを想定していますが、Macでも同様の手順になります。
+
 ## USキーボードを入手
 
 ![US Keyboard](images/us-keyboard.jpg)
@@ -9,7 +11,7 @@
 
 ## Google 日本語入力 (Google IME Japanese) のインストール
 
-未導入であれば、ダウンロードしてきてインストールします。Windows版および、Mac版があります。
+未導入であれば、以下よりダウンロードしてインストーラを実行します。Windows版および、Mac版があります。
 
 - [https://www.google.co.jp/ime/](https://www.google.co.jp/ime/)
 
@@ -18,7 +20,41 @@
 
 ## 配列データのインポートと、IME設定
 
-...執筆中
+次のデータをダウンロードしておきましょう。それぞれ右クリックして「リンク先を保存」します。
+
+- 配列データ - [romantable-sankaku-jis.txt](https://raw.githubusercontent.com/cognitom/kana/master/romantable-sankaku-jis.txt)
+- キーマップ - [keymap-recommended.txt](https://raw.githubusercontent.com/cognitom/kana/master/keymap-recommended.txt)
+
+
+![IME](images/ime-taskbar.png)
+
+- Google 日本語入力の設定画面を表示します。スクリーン右下のタスクバー通知エリアで、文字のアイコンを右クリックして、プロパティ(Properties)を開きます。
+
+![IME](images/google-ime.png)
+
+- 一般(General)タブを表示
+- `入力モード(Input mode)`を「ローマ字(Romaji)」に
+- ローマ字表の`カスタマイズ...(Customize...)`ボタンをクリック。ポップアップが開きます。
+
+![IME](images/ime-romantable.png)
+
+- 上図の画面で左下の編集(Edit)ボタンから「ファイルからインポート...(Import from file...)」を選択します。
+- 先ほどダウンロードした `romantable-sankaku-jis.txt` を指定します。
+- OKボタンをクリックして、ポップアップを閉じます。
+
+![IME](images/ime-keymap.png)
+
+- キーマップスタイルの`カスタマイズ...(Customize...)`ボタンをクリック。ポップアップが開きます。
+- 上図の画面で左下の編集(Edit)ボタンから「ファイルからインポート...(Import from file...)」を選択します。
+- 先ほどダウンロードした `keymap-recommended.txt` を指定します。
+- OKボタンをクリックして、ポップアップを閉じます。
+
+![IME](images/ime-advanced.png)
+
+- 詳細(Advanced)タブを表示
+- 「自動的に半角にスイッチ(Automatically switch to halfwidth)」のチェックを外す
+- 「シフトキーモードスイッチ(Shift key mode switch)」を「Off」に
+- 適用、またはOKボタンをクリック
 
 ## Windowsの設定
 
