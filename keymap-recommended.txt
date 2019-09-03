@@ -38,8 +38,8 @@ Composition	F6	ConvertToHiragana
 Composition	F7	ConvertToFullKatakana
 Composition	F8	ConvertToHalfWidth
 Composition	F9	ConvertToFullAlphanumeric
-Composition	Insert	IMEOff
 Composition	Home	MoveCursorToBeginning
+Composition	Insert	IMEOff
 Composition	Left	MoveCursorLeft
 Composition	Muhenkan	IMEOff
 Composition	Right	MoveCursorRight
@@ -96,6 +96,7 @@ Conversion	Shift Backspace	Cancel
 Conversion	Shift Down	ConvertNextPage
 Conversion	Shift ESC	Cancel
 Conversion	Shift Left	SegmentWidthShrink
+Conversion	Shift Right	SegmentWidthExpand
 Conversion	Shift Space	ConvertPrev
 Conversion	Shift Tab	ConvertPrev
 Conversion	Shift Up	ConvertPrevPage
