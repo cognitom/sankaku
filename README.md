@@ -1,7 +1,5 @@
 ![cover](images/cover.png)
 
-# 三角かな配列 for USキーボード
-
 USキーボードに合わせて、JIS配列から記号キーと一部のカナの位置を調整した、かな入力用配列です。Google日本語入力 (Google IME Japanese) で利用することができます。JISからの変更点が三角形(下図の赤いところ)になっているので「三角かな」と呼んでいます。
 
 - 配列データ - [romantable-sankaku-jis.txt](https://raw.githubusercontent.com/cognitom/kana/master/romantable-sankaku-jis.txt)
