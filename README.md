@@ -2,7 +2,7 @@
 
 # 三角かな配列 for USキーボード
 
-USキーボードに合わせて、JIS配列から記号キーと一部のカナの位置を調整した、かな入力用配列です。Google日本語入力 (Google IME Japanese) で利用することができます。JISからの変更点が三角形(下図の赤いところ)になっているので「三角JIS」と呼んでいます。
+USキーボードに合わせて、JIS配列から記号キーと一部のカナの位置を調整した、かな入力用配列です。Google日本語入力 (Google IME Japanese) で利用することができます。JISからの変更点が三角形(下図の赤いところ)になっているので「三角かな」と呼んでいます。
 
 - 配列データ - [romantable-sankaku-jis.txt](https://raw.githubusercontent.com/cognitom/kana/master/romantable-sankaku-jis.txt)
 - キーマップ - [keymap-recommended.txt](https://raw.githubusercontent.com/cognitom/kana/master/keymap-recommended.txt)
@@ -40,7 +40,7 @@ USキーボードに合わせて、JIS配列から記号キーと一部のカナ
 
 ## 小型キーボードでの使用例
 
-小型キーボードでは、右端のキーは省略されたり、違う場所に追いやられたり変則的な配置になりがちです。「三角JIS」であればほとんどのキーボードで標準的な位置におさまります (記号を除く)。以下は、OneMix3のキーボードに適用した場合です。
+小型キーボードでは、右端のキーは省略されたり、違う場所に追いやられたり変則的な配置になりがちです。「三角かな」であればほとんどのキーボードで標準的な位置におさまります (記号を除く)。以下は、OneMix3のキーボードに適用した場合です。
 
 ![general](images/sankaku-onemix3.png)
 
