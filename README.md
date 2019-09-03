@@ -11,6 +11,15 @@ USキーボードに合わせて、JIS配列から記号キーと一部のカナ
 
 キーマップの使用は任意ですが、<kbd>INSERT</kbd>にIMEのON/OFFを割り振り、<kbd>変換</kbd>などUS配列に存在しないキーを省いたものです。[Change Key](https://forest.watch.impress.co.jp/library/software/changekey/)などを使って、<kbd>Caps</kbd> と <kbd>Insert</kbd> を入れ替えておくとより便利です。
 
+![general](images/sankaku-general.png)
+
+- 一部のカナ(キーボードの右端のキー)を左手のシスト側に割り振り
+  - <kbd>す</kbd> → <kbd>む</kbd> / <kbd>し</kbd> → <kbd>へ</kbd> / <kbd>は</kbd> → <kbd>ほ</kbd> / <kbd>さ</kbd> → <kbd>け</kbd> / <kbd>そ</kbd> → <kbd>れ</kbd> / <kbd>ひ</kbd> → <kbd>ろ</kbd>
+  - 変更は三角形の範囲に限定し、文字形の似ているものに
+  - 左手でシフトキーと合わせて押しやすい範囲
+- カギ括弧と長音をUS配列で自然な位置に
+- 濁点・半濁点・小文字のトグル (<kbd>'</kbd>で「は」「ば」「ぱ」をトグル)
+
 ## 「はんそく」カナ配列
 
 JIS配列から最低限の変更にとどめた配列です。特徴的なキーにちなんで「はんそく」カナ配列と呼んでいます。詳しくは[こちらのブログ記事](https://medium.com/@cognitom/good-bye-japanese-keyboard-9b0418f32e2c)を参照してください。
