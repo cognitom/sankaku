@@ -49,6 +49,7 @@ USキーボードは多言語での使用を想定していないため、言語
 1. 解凍したフォルダ内の`ChgKey.exe`を右クリックして、「管理者として実行 (Run as administrator)」を選択
 2. 表示されたウィンドウ(薄紫色)内から、<kdb>Caps Lock</kdb>をクリック
 3. ポップアップ(薄緑色)が開くので、<kdb>Insert</kdb>をクリック
+4. 登録メニューをクリック ※続けてWindowsが再起動されます。
 
 ![ChangeKey](images/changekey.png)
 
