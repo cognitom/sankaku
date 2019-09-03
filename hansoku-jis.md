@@ -5,7 +5,7 @@ JIS配列から最低限の変更にとどめた配列です。特徴的なキ�
 - 配列データ - [romantable-hansoku-jis.txt](https://raw.githubusercontent.com/cognitom/kana/master/romantable-hansoku-jis.txt)
 - キーマップ - [keymap-recommended.txt](https://raw.githubusercontent.com/cognitom/kana/master/keymap-recommended.txt)
 
-※この配列から、小型キーボードでの使い勝手を改良したのが「[三角かな配列](./)」です。
+※この配列から、小型キーボードでの使い勝手を改良したのが「[三角かな配列](README.md)」です。
 
 ![hansoku](images/hansoku-general.png)
 
