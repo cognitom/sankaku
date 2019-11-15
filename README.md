@@ -5,7 +5,9 @@ USキーボードに合わせて、JISかな配列から記号キーと一部の
 - 配列データ - [romantable-sankaku-jis.txt](https://raw.githubusercontent.com/cognitom/kana/master/romantable-sankaku-jis.txt)
 - キーマップ - [keymap-recommended.txt](https://raw.githubusercontent.com/cognitom/kana/master/keymap-recommended.txt)
 
-配列データをダウンロードして、IMEの設定画面からローマ字配列として読み込むと使えます。(カナ配列だけど)
+配列データをダウンロードして、IMEの設定画面からローマ字配列として読み込むと使えます。
+
+> 注: Google日本語入力ではローマ字配列をカスタマイズすることが可能です。「三角」は「かな配列」ですが、この機能を使用しローマ字配列として読み込みます。
 
 キーマップの使用は任意ですが、<kbd>INSERT</kbd>にIMEのON/OFFを割り振り、<kbd>変換</kbd>などUS配列に存在しないキーを省いたものです。[Change Key](https://forest.watch.impress.co.jp/library/software/changekey/)などを使って、<kbd>Caps</kbd> と <kbd>Insert</kbd> を入れ替えておくとより便利です。
 
