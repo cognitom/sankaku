@@ -46,5 +46,5 @@ USキーボードに合わせて、JISかな配列から記号キーと一部の
 
 ## 参考
 
-- [「はんそく」カナ配列](hansoku-jis.md)
+- [「はんそく」カナ配列](archived/hansoku-jis.md)
 - [新JIS用の配列](https://gist.github.com/ytomino/3610371) by ytomino
