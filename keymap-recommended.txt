@@ -40,9 +40,9 @@ Composition	F8	ConvertToHalfWidth
 Composition	F9	ConvertToFullAlphanumeric
 Composition	Home	MoveCursorToBeginning
 Composition	Insert	IMEOff
-Composition	Left	MoveCursorLeft
+Composition	Left	SegmentFocusLeft
 Composition	Muhenkan	IMEOff
-Composition	Right	MoveCursorRight
+Composition	Right	SegmentFocusRight
 Composition	Shift Backspace	Backspace
 Composition	Shift ESC	Cancel
 Composition	Shift Left	MoveCursorLeft
