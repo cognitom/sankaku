@@ -1,9 +1,9 @@
 # 「はんそく」カナ配列
 
-JIS配列から最低限の変更にとどめた配列です。特徴的なキーにちなんで「はんそく」カナ配列と呼んでいます。詳しくは[こちらのブログ記事](https://medium.com/@cognitom/good-bye-japanese-keyboard-9b0418f32e2c)を参照してください。
+JIS配列から最低限の変更にとどめた配列です。特徴的なキーにちなんで「はんそく」カナ配列と呼んでいます。
 
-- 配列データ - [romantable-hansoku-jis.txt](https://raw.githubusercontent.com/cognitom/kana/master/romantable-hansoku-jis.txt)
-- キーマップ - [keymap-recommended.txt](https://raw.githubusercontent.com/cognitom/kana/master/keymap-recommended.txt)
+- 配列データ - [romantable-hansoku-jis.txt](https://raw.githubusercontent.com/cognitom/sankaku/master/archived/romantable-hansoku-jis.txt)
+- キーマップ - [keymap-recommended.txt](https://raw.githubusercontent.com/cognitom/sankaku/master/keymap-recommended.txt)
 
 ※この配列から、小型キーボードでの使い勝手を改良したのが「[三角かな配列](../README.md)」です。
 
