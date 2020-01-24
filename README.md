@@ -46,5 +46,6 @@ USキーボードに合わせて、JISかな配列から記号キーと一部の
 
 ## 参考
 
+- [さよなら日本語キーボード ― USキーボードのための「三角かな配列」の提案](https://medium.com/@cognitom/good-bye-japanese-keyboard-9b0418f32e2c)
 - [「はんそく」カナ配列](archived/hansoku-jis.md)
 - [新JIS用の配列](https://gist.github.com/ytomino/3610371) by ytomino
